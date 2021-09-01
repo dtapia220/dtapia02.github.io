@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f2a26d6e-32b3-47d0-aecc-494b634d1730" name="Changes" comment="" />
+    <list default="true" id="acdba25a-0075-4bee-96c1-834ccd5c0c4d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,7 +10,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1xSOVWmewsgFW8qDjdNFI3gX8VX" />
+  <component name="ProjectId" id="1xP5I4gNRF4BMMCEy5Ya0vVqYXR" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -19,24 +19,27 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File" value="HTML" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Diego\Documents\GitHub\dtapia02.github.io" />
+      <recent name="C:\Users\dlash\Documents\GitHub\dlash02.github.io" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f2a26d6e-32b3-47d0-aecc-494b634d1730" name="Changes" comment="" />
-      <created>1630345046227</created>
+      <changelist id="acdba25a-0075-4bee-96c1-834ccd5c0c4d" name="Changes" comment="" />
+      <created>1630243799806</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1630345046227</updated>
-      <workItem from="1630345047624" duration="1375000" />
+      <updated>1630243799806</updated>
+      <workItem from="1630243801498" duration="1148000" />
+      <workItem from="1630244959495" duration="600000" />
+      <workItem from="1630328227942" duration="63000" />
+      <workItem from="1630345021805" duration="3154000" />
     </task>
     <servers />
   </component>
