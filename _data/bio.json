@@ -1,6 +1,6 @@
 {
   "basics": {
-    "name": "David A. Lash",
+    "name": "Diego Tapia",
     "label": "Professor",
     "picture": "https://dlash02.github.io/images/david-lash.jpg",
     "email": "dlash@aurora.edu",
@@ -75,7 +75,7 @@
   "education": [
     {
       "institution": "Illinois Institute of Technology",
-      "area": "Computer Science ",
+      "area": "Computer Science",
       "studyType": "PhD - ABD",
       "startDate": "1990",
       "endDate": "1992",
@@ -99,7 +99,7 @@
   "work": [
     {
       "company": "Aurora University",
-      "position": "Assistant Professor of Computer Science",
+      "position": "Computer Science",
       "website": "",
       "startDate": "2018-06-01",
       "endDate": "Present",
